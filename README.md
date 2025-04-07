@@ -11,10 +11,7 @@ Define the Data Structure:
 
 Identify the key data points that need to be encoded.
 Define the structure of the data (e.g., fields, data types).
-Implement the Encoder:
 
-Choose a programming language for implementation.
-Implement the encoding logic based on the defined data structure and encoding requirements.
 Test the Encoder:
 
 Create test cases with sample data.
